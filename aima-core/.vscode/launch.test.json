@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "aima-core",
+                "projectName": "aima-core",
+                "workingDirectory": "f:\\Github\\aima-java\\aima-core",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "aima-core",
+                "projectName": "aima-core",
+                "workingDirectory": "f:\\Github\\aima-java\\aima-core",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

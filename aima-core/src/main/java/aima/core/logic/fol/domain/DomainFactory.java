@@ -90,4 +90,22 @@ public class DomainFactory {
 		domain.addConstant("Drew");
 		return domain;
 	}
+
+	public static FOLDomain leeDomain() {
+		FOLDomain domain = new FOLDomain();
+		domain.addPredicate("Parent");
+		domain.addPredicate("Caught");
+		domain.addPredicate("Friend");
+		domain.addPredicate("Skis");
+		domain.addConstant("Mike");
+		domain.addConstant("Joe");
+		domain.addConstant("Janet");
+		domain.addConstant("Nancy");
+		domain.addConstant("Ernie");
+		domain.addConstant("Bert");
+		domain.addConstant("Red");
+		domain.addConstant("Drew");
+		return domain;
+	}
+
 }
